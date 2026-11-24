@@ -1,0 +1,30 @@
+{
+    "RF_Likelihood": {
+        "5_fold_cv_accuracy": 100.0,
+        "test_accuracy": 100.0,
+        "test_precision": 100.0,
+        "test_recall": 100.0,
+        "test_f1_score": 100.0
+    },
+    "ANN_Likelihood": {
+        "5_fold_cv_accuracy": 99.98,
+        "test_accuracy": 99.92,
+        "test_precision": 99.92,
+        "test_recall": 99.92,
+        "test_f1_score": 99.92
+    },
+    "RF_Impact": {
+        "5_fold_cv_accuracy": 99.94,
+        "test_accuracy": 99.96,
+        "test_precision": 99.96,
+        "test_recall": 99.96,
+        "test_f1_score": 99.96
+    },
+    "ANN_Impact": {
+        "5_fold_cv_accuracy": 99.91,
+        "test_accuracy": 100.0,
+        "test_precision": 100.0,
+        "test_recall": 100.0,
+        "test_f1_score": 100.0
+    }
+}
